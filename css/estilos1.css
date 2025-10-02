@@ -1,0 +1,50 @@
+body{
+margin: 0.;
+padding: 0;
+background-color: white;
+}
+
+.flexContainer{
+display: flex;
+gap: 60px; 
+}
+
+.flexContainer2{
+    display: flex;
+    gap: 60px;
+}
+
+.contenedor1 {
+width: 70%;
+border: 2px solid #ccc;
+border-radius: 10px;
+overflow: hidden; 
+}
+.contenedor2{
+border: 2px solid #ccc;
+border-radius: 10px;
+overflow: hidden;
+margin-top: 50px;
+}
+
+.boton1{
+width: 75%;
+height: 50px;
+background-color: gray;
+color: white;
+margin: 0 auto;  
+display: block;   
+}
+
+.texto{
+font-size: 40px;
+margin-left: 60px;  
+margin-right: 20px; 
+}
+
+.texto2{
+    font-size: 40px;
+margin-left: 60px;
+margin-right: 30px; 
+}
+

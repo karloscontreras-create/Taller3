@@ -1,0 +1,208 @@
+.tarjeta-historia img {
+    width: 100%;
+    max-width: 200px;
+    height: 120px;
+    border-radius: 8px;
+    object-fit: cover;
+    margin-bottom: 20px;
+}
+.boton-barra {
+    background: #2968cc;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 13px;
+    letter-spacing: 0.8px;
+    padding: 10px 20px;
+    border-radius: 18px;
+    transition: background-color 0.2s;
+}
+.seccion-historia {
+    padding: 80px 20px;
+    text-align: center;
+    background: #fff;
+}
+.tarjeta-servicio p {
+    font-size: 14px;
+    color: #666;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+.contenido-principal {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 100vh;
+}
+.seccion-servicios {
+    padding: 80px 20px;
+    background: #f8f9fa;
+}
+.tarjeta-historia {
+    flex: 1;
+    max-width: 300px;
+    text-align: center;
+}
+.boton-servicio {
+    background: #2968cc;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 18px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.boton-principal {
+    background: #2968cc;
+    color: #fff;
+    border: none;
+    padding: 12px 24px;
+    border-radius: 18px;
+    font-size: 14px;
+    font-weight: 600;
+    letter-spacing: 0.8px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+.seccion-historia h2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 10px;
+}
+.tarjeta-servicio {
+    flex: 1;
+    max-width: 400px;
+    background: #e9ecef;
+    padding: 40px 30px;
+    border-radius: 12px;
+    text-align: center;
+}
+.subtitulo-historia {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 60px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu-barra {
+    display: flex;
+    gap: 42px;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+.tarjeta-historia h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 15px;
+}
+.imagen-seccion {
+    flex: 1;
+    max-width: 500px;
+}
+.tarjeta-servicio h3 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #222;
+    margin-bottom: 20px;
+}
+.seccion-principal {
+    padding: 80px 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.tarjetas-historia {
+    display: flex;
+    gap: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.texto-seccion h2 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #222;
+    margin: 0 0 20px 0;
+    line-height: 1.2;
+}
+.imagen-seccion img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 12px;
+}
+.contenedor-servicios {
+    display: flex;
+    gap: 40px;
+    max-width: 1000px;
+    margin: 0 auto;
+    justify-content: center;
+}
+.texto-seccion {
+    flex: 1;
+    max-width: 500px;
+}
+.texto-seccion h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: #222;
+    margin: 0 0 10px 0;
+    line-height: 1.2;
+}
+.barra-navegacion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #fff;
+    border-radius: 16px;
+    box-shadow: 0 2px 16px rgba(0,0,0,0.08);
+    padding: 12px 48px;
+    margin: 20px;
+    width: calc(100% - 40px);
+    min-height: 54px;
+    box-sizing: border-box;
+    position: relative;
+}
+.tarjeta-historia p {
+    font-size: 14px;
+    color: #666;
+    line-height: 1.6;
+}
+.texto-seccion p {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 30px;
+    line-height: 1.6;
+}
+.logo-barra {
+    font-size: 24px;
+    font-weight: bold;
+    color: #222;
+    position: absolute;
+    left: 48px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+li a {
+    color: #222;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 15px;
+    letter-spacing: 0.8px;
+    transition: color 0.2s;
+}
+.contenido-seccion {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 60px;
+}
